@@ -6,4 +6,4 @@ Sitemap: https://masabee1029.github.io/oshikatsu-guide/sitemap.xml
 Sitemap: https://masabee1029.github.io/spice-curry-start/sitemap.xml
 Sitemap: https://masabee1029.github.io/oshi-hakken-navi/sitemap.xml
 Sitemap: https://masabee1029.github.io/ai-prompt-recipes/sitemap.xml
-Sitemap: https://masabee1029.github.io/ado-himitsukichi/sitemap.xml
+Sitemap: https://ado-himitsukichi.github.io/sitemap.xml
