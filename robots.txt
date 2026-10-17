@@ -7,4 +7,4 @@ Sitemap: https://masabee1029.github.io/spice-curry-start/sitemap.xml
 Sitemap: https://masabee1029.github.io/oshi-hakken-navi/sitemap.xml
 Sitemap: https://masabee1029.github.io/ai-prompt-recipes/sitemap.xml
 Sitemap: https://ado-himitsukichi.github.io/sitemap.xml
-Sitemap: https://masabee1029.github.io/yama-kossori/sitemap.xml
+Sitemap: https://yama-kossori.github.io/sitemap.xml
