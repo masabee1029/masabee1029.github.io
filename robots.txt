@@ -9,3 +9,4 @@ Sitemap: https://masabee1029.github.io/ai-prompt-recipes/sitemap.xml
 Sitemap: https://ado-himitsukichi.github.io/sitemap.xml
 Sitemap: https://yama-kossori.github.io/sitemap.xml
 Sitemap: https://masabee1029.github.io/ai-free-vs-paid/sitemap.xml
+Sitemap: https://masabee1029.github.io/clanqueen-himitsukichi/sitemap.xml
