@@ -14,3 +14,4 @@ Sitemap: https://tera-naisho.github.io/sitemap.xml
 Sitemap: https://masabee1029.github.io/ai-customize-fun/sitemap.xml
 Sitemap: https://oshi-heroine.github.io/sitemap.xml
 Sitemap: https://okudake-wifi.github.io/sitemap.xml
+Sitemap: https://lalrole-atelier.github.io/sitemap.xml
